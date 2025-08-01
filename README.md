@@ -1,1 +1,2 @@
 # certi2-practica1
+Es necesario correr el script de python triangulos.py (en mi caso fue Pycharm donde cree un proyecto con el script, entonces tambien podria importar el proyecto o correrlo desde consola si desea ), al correrlo se debe ingresar el valor del lado A del triangulo y una vez lo hayamos hecho presionar Enter, si es que no es un valor valido se pedira que se vuelva a ingresar el valor. Luego se debe proseguir con los lados restantes de la misma manera, una vez hayamos terminado de ingresar correctamente el valor del lado C  nos dará el resutado.
